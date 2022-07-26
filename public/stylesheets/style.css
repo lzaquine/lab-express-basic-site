@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    font-size: 38px;
+    color: white;
+    background-color: black;
+}
+.img {
+    width: 1520px;
+    height: 350px;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.born {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+}
+.origin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+}
+.genres {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+}
+.genres li {
+    list-style: none;
+}
+.years {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+}
+.labels {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+}
+.labels li {
+    list-style: none
+}
+.members {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+}
+.members li {
+    list-style: none;
+}
+.website {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    line-height: 25px;
+}
+.back-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 15px;
+    line-height: 25px;
+}
+.poster {
+    height: 300px;
+    width: 1520px;
+}
+.disco {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    line-height: 25px;
+    color: white;
+    background-color: black;
+}
+.studio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 15px;
+    line-height: 25px;
+}
+.discoP {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 15px;
+    line-height: 25px;
+}
+.ulDisco {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 15px;
+    line-height: 25px;
+}
+.ulDisco li {
+    list-style: none;
+}
+.dvd {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 25px;
+}
+.dvdUl {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 15px;
+    line-height: 25px;
+}
+.dvdUl li {
+    list-style: none;
+}
+.proclaimers-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    line-height: 25px;
+    color: white;
+    background-color: black;
+}
+.first-p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    line-height: 25px;
+}
+.first-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.early-life {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    line-height: 25px;
+}
+.second-p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    line-height: 25px;
+}
+.sunshine {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    line-height: 25px;
+}
+.third-p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    line-height: 25px;
+}
+.denture {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    line-height: 25px;
+}
+.fourth-p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    line-height: 25px;
+}
+.back-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    line-height: 25px;
+}
+#photos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+#photos img {
+    width: 400px;
+}
+.photoo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    line-height: 25px;
+    color: white;
+    background-color: black;
+}
+iframe {
+    margin: 10px;
+}
+.justify-content-end {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    line-height: 20px;
+    padding: 10px;
+}
+.nav-item {
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+}
